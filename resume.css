@@ -1,0 +1,136 @@
+nav {
+font-size: 1em;
+font-family: Optima;
+font-weight: bold;
+}
+
+body {
+margin: auto;
+background-color: lightcyan;
+max-width: 1100px;
+}
+
+header {
+text-align: center;
+margin: auto;
+max-width: 600px;
+}
+
+h1 {
+text-align: center;
+font-family: Futura;
+font-size: 3em;
+}
+
+h2 {
+text-align: center;
+font-family: Futura;
+font-size: 1.5em;
+}
+
+h3 {
+text-align: center;
+font-family: Futura;
+font-size: 2em;
+min-width: 60%;  
+}
+
+.school {
+font-family: Futura;
+font-size: 1.25em;
+font-weight: bold;
+margin: .4px;
+min-width: 400px;
+}
+
+.major {
+font-family: Futura;
+font-size: 1em;
+font-weight: bold;
+margin: .4px;   
+min-width: 400px;
+}
+
+p {
+font-family: Helvetica Neue;
+font-size: 1em;
+min-width: 20%;
+min-height: 40%;
+}
+
+ul ~ p{
+text-align: center; 
+}
+
+ul {
+font-family: Helvetica Neue;
+font-size: 1em;
+width: 80%;
+min-width: 40%;
+list-style-position: outside;
+}
+
+.job {
+font-family: Futura;
+font-size: 1.25em;
+margin: .4px;
+}
+
+.location {
+font-family: Futura;
+font-size: 1em;
+margin: .4px;
+}
+
+.experience {
+position: absolute;
+padding: 20px;
+width: 40%;
+min-width: 20%;
+}
+
+.education {
+position: absolute;
+margin-left: 600px;
+margin-right: 100px;
+padding: 20px;
+min-width: 400px;
+}
+
+.honors {
+list-style-type: star.jpg;  
+font-family: Helvetica Neue;
+font-size: 1em;
+min-width: 400px;
+}
+
+.skills {
+position: absolute;
+margin-left: 600px;
+margin-top: 225px;
+margin-right: 100px;
+padding: 20px; 
+min-width: 400px;
+}
+
+.references {
+position: absolute;
+margin-left: 600px;
+margin-top: 525px;
+margin-right: 100px;
+padding: 20px;  
+min-width: 400px;
+}
+
+.download {
+position: absolute;
+margin-left: 600px;
+margin-top: 825px;
+margin-right: 100px;
+padding: 20px;  
+min-width: 400px;
+    
+font-family: Futura;
+font-size: 1.5em;
+}
+    

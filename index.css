@@ -1,0 +1,34 @@
+body {
+margin: auto;
+background-color: lightcyan;
+width: 60%;   
+}
+
+h1 {
+padding-bottom: 20px;
+text-align: center;
+font-family: Futura;
+font-size: 3em;
+color: darkolivegreen;
+border-bottom-style: solid;
+border-bottom-color: black;
+}
+
+h2 {
+text-align: center;
+font-family: Futura;
+font-size: 2em;
+color: darkolivegreen;
+}
+
+p {
+font-size: 1.2em;
+font-family: Optima;
+}
+
+nav {
+font-size: 1em;
+font-family: Optima;
+font-weight: bold;
+margin-top: 20px;
+}
